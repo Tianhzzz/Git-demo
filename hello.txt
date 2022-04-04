@@ -8,5 +8,5 @@ hello bth! hello git!
 hello bth! hello git!
 hello bth! hello git!
 hello bth! hello git!
-hello bth! hello git!
+hello bth! hello git! hot-fix test
 hello bth! hello git!
